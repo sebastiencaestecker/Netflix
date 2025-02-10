@@ -6,6 +6,6 @@ Chez Netflix, nous cherchons à mieux comprendre notre catalogue de contenu pour
 
 Aujourd'hui, ils ont besoin de mon aide pour visualiser l'état actuel de leur catalogue.
 
-Pour répondre à ces questions, j'ai d'abord examiné le jeu de données, puis effectué une analyse exploratoire des données et créé des visualisations.
+Pour répondre à ces questions, j'ai d'abord examiné le jeu de données, puis effectué une analyse exploratoire des données et créé des visualisations sur Power BI
 
 ![image](https://github.com/user-attachments/assets/f86f904f-b732-4599-ab77-1bb155419a19)

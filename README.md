@@ -28,5 +28,3 @@ Chez Netflix, nous cherchons à mieux comprendre notre catalogue de contenu pour
 
 ![image](https://github.com/user-attachments/assets/f86f904f-b732-4599-ab77-1bb155419a19)
 
-
-Ces améliorations devraient rendre votre README plus attrayant et informatif pour les recruteurs potentiels, tout en mettant en avant vos compétences en nettoyage de données avec Power Query.
